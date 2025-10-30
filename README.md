@@ -25,7 +25,6 @@
 
 - **TEXT-TO-SPEECH (TTS)**\
   VoiceVox Coreで応答をWAV形式に変換・再生\
-  GPU利用時はONNX Runtime GPU版、失敗時はCPUフォールバック
 
 - **TRANSLATION**\
   DeepL APIで日本語応答を英語へ自動翻訳
